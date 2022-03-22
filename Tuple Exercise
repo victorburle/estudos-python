@@ -1,4 +1,0 @@
-a = "Python"
-b = [1,2,3]
-aTUP = (a,b)
-print(aTUP[1][1:]) 
